@@ -1,0 +1,89 @@
+*{
+ margin: 0;
+}
+body{
+    font-family: sans-serif;
+    line-height: 1.4; 
+   }
+ .ok{
+width:825px;
+border: 1px solid black;
+ margin: 50px auto;
+ position: relative;
+}
+.ok1{
+    text-align: center;
+    font-size: 25px; 
+    text-transform: uppercase;
+    background-color:  #777777;;
+    color: ;
+     padding: 153 px; 
+}
+.son{
+    float: left;
+    width:190px;
+    margin: 0px;
+}
+.one{
+    width: 20px;
+}
+.second{
+    float: left;
+    width: 325px;
+    padding: 2cqb;
+  /* box-sizing:border-box; */
+} 
+.ok3{
+    float: left;
+    font-size: 24px;
+}
+.ok4{
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #777777;
+    float: right;
+}
+.dep{
+    clear: both;
+    margin-bottom: 10px;
+}
+.more-info{
+    display: inline-block;
+    color: black;
+    margin-bottom: 30px;
+}
+.third{
+    width: 250px;
+    float: right;
+    margin-top: 20px;
+}
+.fourth{
+text-transform: uppercase;
+font-size: 16px;
+margin-bottom: 14px;
+}
+.more{
+    list-style: square;
+margin-left: 20px;
+
+}
+.more li{
+    margin-bottom: 10px;
+}
+.btn{
+
+    color:white;
+    background-color: black;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 15px;
+    width: 100%;
+    cursor: pointer;
+    border-top: 4px solid  black;
+
+}
+.btn:hover{
+    background-color: #777777;
+}
+

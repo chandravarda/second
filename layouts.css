@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+.container{
+    width: 1200px;
+    margin:0 auto;
+    background-color: aqua;
+    margin-top: 50px;
+}
+.logo{
+    width: 1200px;
+    margin:0 auto;
+} 
+
+ul{
+    list-style: none;
+    float:left;
+}
+.web{
+    float: right;
+    margin-top:0;
+}
+li{
+    float: left;
+    padding:5px;
+
+}  
+    .clear{
+        clear:both;
+    }
+    .clearfix::after{
+        background-color: black;
+        display: block;
+        clear: both;
+    }
+    .ok1{
+        width: 600px;
+        float: left;
+    }
